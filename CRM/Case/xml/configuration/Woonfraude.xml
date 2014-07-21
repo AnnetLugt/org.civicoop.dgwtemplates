@@ -43,7 +43,10 @@
         <name>Dossier Manager</name>
         <creator>1</creator>
         <manager>1</manager>
-    </RelationshipType>   
+    </RelationshipType> 
+<RelationshipType>
+        <name>Deurwaarder</name>
+     </RelationshipType>
 <RelationshipType>
         <name>Buurtbeheerder</name>
     </RelationshipType>	
